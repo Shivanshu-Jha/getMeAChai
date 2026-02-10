@@ -37,7 +37,7 @@ GetMeAChai/
 - Node.js  
 - MongoDB (local or Atlas cluster)  
 - Razorpay account (for API keys)  
-- Vercel CLI (optional for deployment)  
+- Vercel  (optional for deployment)  
 
 ### Installation
 
