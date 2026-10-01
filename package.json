@@ -15,7 +15,7 @@
     "cors": "^2.8.5",
     "mongoose": "^8.16.1",
     "next": "^15.5.12",
-    "next-auth": "^4.24.11",
+    "next-auth": "^4.24.15",
     "node-fetch": "^3.3.2",
     "razorpay": "^2.9.6",
     "react": "^19.0.0",
